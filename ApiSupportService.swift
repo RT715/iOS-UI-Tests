@@ -29,7 +29,7 @@ struct Params: Codable {
 
 class ApiSupportService: NSObject, URLSessionDelegate {
     
-    // MARK: - Serve actions
+    // MARK: - Server actions
     
     enum ServerActions: String {
         case createPost
