@@ -16,7 +16,6 @@ public class BaseTest: XCTestCase {
         case accountTab = 2
     }
 
-    
     // MARK: - Public properties
     
     let app = XCUIApplication()
