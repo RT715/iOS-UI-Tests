@@ -7,7 +7,6 @@
 //
 
 import XCTest
-import SwiftUI
 
 final class SmokeTest: BaseTest {
     
