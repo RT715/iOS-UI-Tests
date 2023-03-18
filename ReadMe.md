@@ -12,6 +12,6 @@ The tests are kind of tricky. E.G. To verify that 1 user received a message from
 
 The service link: https://github.com/haenar/MobileAutotestPreconditions
 
-I was performing an HTTPS async requests from my tests to that server using `urlsession` library, the magic were happening on the server side, and I parsed the response to get the data for further tests execution. I used a self-signed certificate that was generated on the server side to be able to send an HTTPS requests to not trusted source according to Swift restrictions.
+I was performing an HTTPS async requests from my tests to that server using `urlsession` library, the magic was happening on the server side, and I parsed the response to get the data for further tests execution. I used a self-signed certificate that was generated on the server side to be able to send an HTTPS requests to not trusted source according to Swift restrictions.
 
 The tests are written using Page Object Model pattern.
