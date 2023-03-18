@@ -3,7 +3,6 @@
 </p>
 
 ## About
----
 
 An automated tests for iOS messaging application where 2 users communicate with each other in group or DM chats. The tests are veifying features like: Authentication, Onboarding passing, Creating new group and DM chats, Verification of receiving new group and DM chats from other users, Verification of receiving new messages from other users, Following/unfollowing, muting/unmuting, archiving/unarchiving group chats.
 
